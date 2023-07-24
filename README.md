@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Gupta</h1>
-<h3 align="center">Aspiring full stack developer who loves to code :blue_heart:</h3>
+<h3 align="center">Aspiring full stack developer who loves to code :blue_heart:</h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=imAshutoshGupta&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
+
 
 
 - 👋 Hi, I’m @imAshutoshGupta
