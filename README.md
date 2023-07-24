@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Ashutosh Gupta</h1>
+<h3 align="center">Aspiring full stack developer who loves to code :blue_heart:</h3>
+
+
 - 👋 Hi, I’m @imAshutoshGupta
 - 👀 I’m interested in Full Stack Development and AI
 - 🌱 I’m currently learning HTML, CSS, JS, ReactJS, NodeJS, Python, Django, AWS
