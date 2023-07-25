@@ -1,7 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ashutosh Gupta</h1>
+<h1 align="center">Hi <img src="waving-hand.gif" width="30px">, I'm Ashutosh Gupta</h1>
 <h3 align="center">Aspiring full stack developer who loves to code :blue_heart:</h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=imAshutoshGupta&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<img src="github-banner.png"/>
+
 
 ## 💡 Connect with me :
 <p align="left"> 
