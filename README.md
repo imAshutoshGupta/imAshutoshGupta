@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="waving-hand.gif" width="30px">, I'm Ashutosh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Gupta</h1>
 <h3 align="center">Aspiring full stack developer who loves to code :blue_heart:</h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=imAshutoshGupta&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
 
-<img src="github-banner.png"/>
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 
 ## 💡 Connect with me :
