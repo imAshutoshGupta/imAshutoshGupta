@@ -19,12 +19,12 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me - via my email (aguptaworkspace@gmail.com) or twitter ([@im_AshutoshG](https://twitter.com/im_AshutoshG))
 
+
+<h2 align="left">Tech Stack: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px"></h2><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashutoshgupta&" alt="imashutoshgupta" /></p>
 
-<h2 align="left">Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px></h2><br>
-
-
-
+![image](https://user-images.githubusercontent.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png)
 <!---
 imAshutoshGupta/imAshutoshGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
