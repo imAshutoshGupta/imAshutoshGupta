@@ -32,8 +32,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&redirect=true)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&cover_image=true&theme=novatorem&show_offline=false&background_color=ce47ff&interchange=true&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&redirect=true)
 
 ## 📊 Git Stats :
 
