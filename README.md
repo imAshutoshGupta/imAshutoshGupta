@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Gupta</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ashutosh Gupta</h1>
 <h3 align="center">Aspiring full stack developer who loves to code :blue_heart:</h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=imAshutoshGupta&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
