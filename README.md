@@ -20,6 +20,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -45,10 +46,15 @@
 <a href="https://twitter.com/im_AshutoshG" target="blank"><img src="https://img.shields.io/twitter/follow/im_AshutoshG?logo=twitter&style=for-the-badge" alt="im_AshutoshG" /></a>&nbsp
 <a href="https://www.linkedin.com/in/ashutoshgupta08"><img src="https://img.shields.io/badge/-Ashutosh%20Gupta-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <!-- <a href="http:/harikanani.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>&nbsp -->
-   <a href="mailto:aguptaworkspace@gmail.com">
+<a href="mailto:aguptaworkspace@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aguptaworkspace@gmail.com" />
-  </a>
+</a>
+<a href="https://leetcode.com/Ashutosh-Gupta/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+</a>
+    
 </p>
+
 
 
 
