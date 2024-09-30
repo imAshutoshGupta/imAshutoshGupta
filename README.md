@@ -1,14 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ashutosh Gupta</h1>
-<h3 align="center">Semicolon is my favorite punctuation; </h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=imAshutoshGupta&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
+<h3 align="center">Semicolon is my favorite punctuation; <p align="right"> <img src="https://komarev.com/ghpvc/?username=imAshutoshGupta&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p></h3>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 
-- 👋 Hi, I’m @imAshutoshGupta
-- 👀 I’m interested in Full Stack Development and AI
-- 🌱 I’m currently learning HTML, CSS, JS, ReactJS, NodeJS, Python, Django, AWS
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me - via my email (aguptaworkspace@gmail.com) or twitter ([@im_AshutoshG](https://twitter.com/im_AshutoshG))
+• I'm a Full Stack Developer.
+• Currently working with MERN stack.
+• I’m looking to collaborate on open source projects & freelance opportunities.
+• 📫 How to reach me - via my email (aguptaworkspace@gmail.com) or twitter ([@im_AshutoshG](https://twitter.com/im_AshutoshG))
 
 
 ## 💻 Tech Stack : 
