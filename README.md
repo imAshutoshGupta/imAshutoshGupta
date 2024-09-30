@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ashutosh Gupta</h1>
-<h3 align="center">Aspiring full stack developer who loves to code :blue_heart:</h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=imAshutoshGupta&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
+<h3 align="center">Semicolon is my favorite punctuation; </h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=imAshutoshGupta&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
@@ -43,13 +43,14 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=luzxyw9wz3d2felvulp35eqqo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&redirect=true)
 
 
-## 📊 Git Stats :
+<!-- ## 📊 Git Stats :
 
 <p align="center">
     <a href="https://streak-stats.demolab.com?user=imashutoshgupta&theme=github-dark-blue&border_radius=5&card_width=450">
         <img src="https://streak-stats.demolab.com?user=imashutoshgupta&theme=github-dark-blue&border_radius=5&card_width=450"/>
     </a>
 </p>
+-->
 
 ## 💡 Connect with me :
 <p align="left"> 
