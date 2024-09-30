@@ -30,7 +30,7 @@
 
 ## 🎧 Currently listening to :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=luzxyw9wz3d2felvulp35eqqo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=luzxyw9wz3d2felvulp35eqqo&redirect=true)
 
 
 ## 📊 Git Stats :
