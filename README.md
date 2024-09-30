@@ -5,8 +5,11 @@
 
 
 • I'm a Full Stack Developer.
+
 • Currently working with MERN stack.
+
 • I’m looking to collaborate on open source projects & freelance opportunities.
+
 • 📫 How to reach me - via my email (aguptaworkspace@gmail.com) or twitter ([@im_AshutoshG](https://twitter.com/im_AshutoshG))
 
 
